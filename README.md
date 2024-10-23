@@ -1,5 +1,12 @@
 # barkat_test_ui
 
+
+<img src="assets/2.png" height="500em" />
+<img src="assets/3.png" height="500em" />
+<img src="assets/4.png" height="500em" />
+<img src="assets/mainScreen.png" height="500em" />
+
+
 A new Flutter project.
 
 ## Getting Started
